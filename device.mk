@@ -44,7 +44,10 @@ PRODUCT_PACKAGES += \
     FrameworksResLiber \
     SettingsProviderResLiber \
     SettingsResLiber \
-    SystemUIResLiber
+    SystemUIResLiber \
+    SettingsOverlayXT2067-1 \
+    SettingsOverlayXT2067-2 \
+    SettingsOverlayXT2067-3
 
 # A/B
 AB_OTA_POSTINSTALL_CONFIG += \
